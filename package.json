@@ -1,0 +1,24 @@
+{
+  "name": "html-cheatsheet-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Creates html cheatsheet with javascript",
+  "main": "htmlCreator.js",
+  "scripts": {
+    "generate": "node htmlCreator.js"
+  },
+  "author": "Bahir Hakimy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahirHakimy/HTMLCheatSheetGenerator.git"
+  },
+  "keywords": [
+    "html",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/BahirHakimy/HTMLCheatSheetGenerator/issues"
+  },
+  "homepage": "https://github.com/BahirHakimy/HTMLCheatSheetGenerator#readme"
+}
